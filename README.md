@@ -18,5 +18,5 @@ CmzPrep官方网站:https://cmzprep.com
 
 我们曾经想过办法删除旧有的CmzPrep发行版本，但存在着第三方软件园收录，旧CmzPrep Github账号丢失，旧版本涉及与他人合作等因素。因此造成了如今普通用户很难找到CmzPrep最新下载地址的局面。
 
-虽然如今有了官方网址（https://www.cmzprep.com），但是仍未被大多数搜索引擎收录，因此尝试使用Github的README来进行引导。**请认准最新的下载地址，不要下载任何在2026年以前发行的CmzPrep程序**
+虽然如今有了官方网址 （https://www.cmzprep.com） ，但是仍未被大多数搜索引擎收录，因此尝试使用Github的README来进行引导。**请认准最新的下载地址，不要下载任何在2026年以前发行的CmzPrep程序**
 
