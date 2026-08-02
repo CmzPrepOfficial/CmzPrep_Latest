@@ -10,7 +10,7 @@ CmzPrep官方网站:https://cmzprep.com
 
 **请勿使用之前的旧版本（包括但不限于CmzPrep B/C/D/Rev.1等)**
 
-**请勿从https://cmzprep.com以及Bilibili作者FoskfD以外的任何地方下载CmzPrep**
+**请勿从(https://cmzprep.com)以及Bilibili作者FoskfD以外的任何地方下载CmzPrep**
 
 本README用于说明一些CmzPrep旧有版本的的残余问题:
 
